@@ -24,5 +24,6 @@
 ```
   #1 The good mail server can always answer 250 and then the script will not help
   #2 Beforу use MailCheck, set Email address used for #fromAddress command.
-  #3 At the moment, it is possible to check email addresses only for one domain at a time, to check different domains you need to run a script every time.
+  #3 At the moment, it is possible to check email addresses only for one domain at a time, to check different 
+  domains you need to run a script every time.
 ```
