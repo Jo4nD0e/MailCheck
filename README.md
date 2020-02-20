@@ -15,8 +15,8 @@
   $ requirements.txt
 
   # Run
-  $ python MailCheck.py
-  $ python MailCheck_manual.py
+  $ python3 MailCheck.py
+  $ python3 MailCheck_manual.py
 ```
 
 
